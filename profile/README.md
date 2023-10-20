@@ -6,7 +6,7 @@ Welcome to the CubeSat Team's Public GitHub Repository! This repository is your 
 
 **Stellar Sat-1 Boira** is the first student CubeSat of the **Universidad Carlos III de Madrid (UC3M)**, a public Spanish university founded in 1989. The student CubeSat program started in September 2022, and it is integrated in UC3M’s **Master in Space Engineering (MISE)**. 
 
-<p align="center"><img src="https://github.com/St3llarSat1-Boira/.github/profile/ST3LLARsat1_BDR_TEAM_TEAMBADGE_00.png"/ width="300"></p> 
+<p align="center"><img src="https://github.com/St3llarSat1-Boira/.github/blob/main/profile/ST3LLARsat1_BDR_TEAM_TEAMBADGE_00.png"/ width="300"></p> 
 
 The aim of Boira is to design, integrate, validate, launch, and operate a **2U CubeSat** to **monitor local climate change** by **measuring atmospheric moisture**; with the primary goal being **educational** (all tasks are performed by UC3M graduate students), and secondary goals related to **technology demonstration** and **science**. 
 
