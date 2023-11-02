@@ -28,12 +28,11 @@ Our team is committed to:
 
 ## What You'll Find in Our Repository
 
-In this public repository, you can expect to find a wide range of resources and materials related to our CubeSat project, including:
+In the near future, our intention is to progressively enhance the accessibility of this repository by officially incorporating comprehensive project documentation and software/code. However, in its current state, you will discover the following categories of content:
 
-- **Project Documentation**: Detailed information about our CubeSat mission, including design, mission objectives, and its scientific instruments.
-- **Software and Code**: Open-source code, scripts, and software tools developed for CubeSat systems and experiments.
 - **Educational Materials**: Resources designed to educate and inspire, including guides, tutorials, and outreach materials.
-- **Media Gallery**: Photos, videos, and media assets showcasing our team's activities and achievements throughout our learning experience.
+- **News & Media Gallery**: Photos, videos, and news showcasing our team's activities and achievements throughout our learning experience..
+- **Dissemination**: Posters and articles used at conferences/journals as well as **MISE** technical reports and thesis.
 
 ## Join the Journey
 
